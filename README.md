@@ -1,0 +1,1 @@
+Utilize el framework de Django para la creacion del sistema de informacion,dentro del repositorio se encuentra el archivo requeriments.txt donde se encuentran todos los paquetes utilizados para el desarrollo las bases de datos se encuentran creadas en postgrest.
