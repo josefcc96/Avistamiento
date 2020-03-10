@@ -6,7 +6,9 @@ En donde se nos solicitara un nombre y contraseña.
 La base de datos principal se llama invemar y su dueño es el usuario jose, en esta se encuentran las relaciones entre los diferentes listados. Para la creacion se utilizo el siguiente script.
 
 "$ psql -U postgres -W "
+
 "# CREATE USER jose;"
+
 "# CREATE DATABASE invemar OWNER jose;"
 
 La contraseña por defecto del usuario jose es 1234.
